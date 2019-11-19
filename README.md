@@ -1,5 +1,4 @@
-# Deploy kafka on AWS EC2
-IaC Kafka deployment on EC2 for development tests. 
+## IaC Kafka deployment on AWS/EC2 for development tests. 
 
 **DO NOT** use this repository for production deployments. For production better use confluent kafka or something similar.
 ### What is this repository for?

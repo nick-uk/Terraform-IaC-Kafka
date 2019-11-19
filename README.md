@@ -10,6 +10,8 @@
 
 * Configuration: Assuming you have already a deployed VPC network with all necessary security groups, firewall rules, the right assigned IAM roles and VPN access in place, you have just to edit the **terraform.tfvars** to set the right subnet ids.
 * Deployment instructions: terraform init, terraform plan, terraform apply.
+* Destroy / clean all: 
+[![asciicast](https://asciinema.org/a/LACfdFaD9Q8EfLBWnC9MH4KSa.png)](https://asciinema.org/a/LACfdFaD9Q8EfLBWnC9MH4KSa)
 
 ### Contribution guidelines
 

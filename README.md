@@ -1,6 +1,6 @@
 ## IaC Kafka deployment on AWS/EC2 for development tests. 
 
-**DO NOT** use this repository for production deployments. For production better use confluent kafka or something similar.
+**DO NOT** use this repository for production deployments, is not using any auto scaling groups. For production better use confluent kafka or something similar.
 ### What is this repository for?
 
 * This respository contains Terraform code and gives access to scripts to deploy a minimal Kafka on AWS for development testing.

@@ -1,5 +1,6 @@
 ## IaC Kafka deployment on AWS/EC2 for development tests. 
-This is a cool and a cheap way to use a minimum Kafka setup on a AWS spot intance. You can deploy and share this with your team. 
+This is a cool and a cheap way to use a minimum Kafka setup on an AWS spot intance. You can deploy and share this with your team. 
+
 **DO NOT** use this repository for production deployments. For production better use a confluent kafka service or something similar.
 ### What is this repository for?
 

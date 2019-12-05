@@ -1,4 +1,4 @@
-## IaC Kafka deployment on AWS/EC2 for development tests. 
+## Demonstrating IaC Kafka deployment on EC2 spot for development tests 
 This is a cool and a cheap way to use a minimum Kafka setup on an AWS spot intance. You can deploy, share it with your team and when you're done delete it with one command.
 
 **DO NOT** use this repository for production deployments. For production better use a confluent kafka service or something similar.
